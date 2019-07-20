@@ -1,0 +1,5 @@
+gastosAlimentacao=2000.0
+gastosFestas=0.0
+gastosEstudo=3000.0
+gastosTransporte=0.0
+gastosSaude=0.0
